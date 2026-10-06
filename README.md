@@ -150,7 +150,7 @@ Focuses on customer risk and campaign effectiveness.
 
 ## Executive Overview
 
-> *(Add Screenshot Here)*
+https://github.com/ThirunagariNavadeep/Banking-Customer-Risk-Loan-Analytics-Dashboard/blob/main/dashboards/Page%201%20%20Executive%20Summary.png
 
 ---
 
