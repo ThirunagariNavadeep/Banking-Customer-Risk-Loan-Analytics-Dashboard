@@ -90,6 +90,8 @@ Provides a high-level summary of business performance.
 - Customer Balance Analysis
 - Loan Distribution
 
+  https://github.com/ThirunagariNavadeep/Banking-Customer-Risk-Loan-Analytics-Dashboard/blob/894c1c7ae160ada4024a6a38c9946e7dd8dfb058/dashboards/Page%201%20%20Executive%20Summary.png
+
 ---
 
 ## 📍 Page 2 – Customer Analytics
