@@ -90,6 +90,9 @@ Provides a high-level summary of business performance.
 - Customer Balance Analysis
 - Loan Distribution
 
+<img width="1172" height="660" alt="image" src="https://github.com/user-attachments/assets/280518e7-7a96-4273-8c9e-d566a1c04352" />
+
+
 
 
 ---
