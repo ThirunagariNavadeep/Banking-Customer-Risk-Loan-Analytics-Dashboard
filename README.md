@@ -169,7 +169,8 @@ Focuses on customer risk and campaign effectiveness.
 
 ## Risk & Marketing Analysis
 
-> *(Add Screenshot Here)*
+<img width="1149" height="655" alt="image" src="https://github.com/user-attachments/assets/5c9d16f9-fd8b-480b-99f9-256983805523" />
+
 
 ---
 
