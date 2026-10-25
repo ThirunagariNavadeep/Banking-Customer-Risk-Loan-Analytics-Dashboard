@@ -162,7 +162,8 @@ Focuses on customer risk and campaign effectiveness.
 
 ## Customer Analytics
 
-> *(Add Screenshot Here)*
+<img width="1175" height="655" alt="image" src="https://github.com/user-attachments/assets/df5a2b7e-c46d-4d12-bcd0-542be3efa2cb" />
+
 
 ---
 
